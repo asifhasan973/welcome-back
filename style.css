@@ -1,0 +1,41 @@
+.head {
+    text-align: center;
+    
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    margin-top: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 25px;
+    
+}
+
+div {
+    text-align: center;
+}
+
+.name {
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.email {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.phone {
+    margin: 10px;
+    font-size: 20px;
+}
+
+.message {
+    margin: 10px;
+    font-size: 20px;
+}
